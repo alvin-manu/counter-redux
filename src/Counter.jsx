@@ -41,7 +41,7 @@ function Counter() {
         </div>
       </div>
       <div className="w-100">
-        <label className="text-black  mt-3 ">Range:</label>
+        <label className="text-black  mt-3 fw-bold">Range:</label>
       <input
         type="number"
         className="form-control borderborder-primary w-100 mt-2"
